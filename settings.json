@@ -1,0 +1,15 @@
+{
+  "editor.accessibilitySupport": "off",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Dracula",
+  "editor.formatOnSave": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.minimap.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "emmet.excludeLanguages": ["markdown", "nunjucks "]
+}
